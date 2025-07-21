@@ -158,8 +158,6 @@ contract CryptoDeveloper {
 
 ---
 
-![Visitor Count](https://profile-counter.glitch.me/0xMesinTempur/count.svg)
-
 *"Code is law, but great code is poetry."*
 
 **Made with 💻, ☕, and a lot of ⛓️ by 0xMesinTempur**
