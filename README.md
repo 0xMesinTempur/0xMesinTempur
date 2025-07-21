@@ -11,7 +11,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=FFD700&background=000000FF&center=true&vCenter=true&multiline=true&width=600&height=120&lines=0xMesinTempur;Blockchain+Developer+%E2%9B%93%EF%B8%8F;Building+the+Future...;Welcome+to+Web3!+%F0%9F%9A%80)](https://github.com/0xMesinTempur)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=2000&pause=500&color=FFD700&background=000000FF&center=true&vCenter=true&multiline=false&width=500&height=80&lines=0xMesinTempur;Web3+Builder+⛓️;Smart+Contracts+💎;DeFi+Protocol+🚀)](https://github.com/0xMesinTempur)
 
 </div>
 
