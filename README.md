@@ -130,11 +130,11 @@ contract CryptoDeveloper {
 ┌─[root@web3]─[~/contacts]
 └──╼ $ echo "Let's build the decentralized future together!"
 
-📧 Email     : contact@0xMesinTempur.dev
-🐦 Twitter   : @0xMesinTempur  
-💼 LinkedIn  : /in/0xMesinTempur
-🎮 Discord   : MesinTempur#1337
-🌐 Portfolio : https://0xMesinTempur.dev
+📧 Email     : -
+🐦 Twitter   : @Souusukee
+💼 LinkedIn  : -
+🎮 Discord   : @Dr.Prowyn
+🌐 Portfolio : -
 ```
 
 ---
